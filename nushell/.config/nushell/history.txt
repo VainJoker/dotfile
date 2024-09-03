@@ -1,0 +1,2324 @@
+ll
+ls
+eza
+eza -all
+ll
+l
+ls
+dorothy theme
+ll
+ls
+starship
+date
+date now
+cat /etc/shells
+chsh 
+echo $nu.loginshell-path
+cd .config/nushell/
+ls
+vim env.nu
+nvim config.nu
+ls
+nvim env.nu
+ls
+dorothy theme
+ll
+ls
+vim .bash_profile
+ls
+nvim .zshrc.zni
+nvim .zshrc
+ls
+cd .config/nushell/
+ls
+nvim login.nu
+ls
+nvim .config/nushell/
+fgconsole
+if fgconsole | echo $nothing 
+if fgconsole | echo $nothing fi
+nvim .config/nushell/
+if $(= $x 42) { echo 'yes' } { echo 'no' }<\n>
+help
+help if
+if 5 < 3 { 'yes!' } else { 'no!' }
+if fgconsole | echo $nothing fi
+if fgconsole { echo $nothing } 
+if fgconsole { } 
+if !fgconsole { Hyprland  } 
+fgconsole
+help if
+if fgconsole==1 { } 
+if fgconsole==1 { Hyprland } 
+Hyprland
+ccclcccls
+ls
+nvim .config/nushell/login.nu
+killall Hyprland
+Hyprland
+if fgconsole==1 { Hyprland } 
+fgconsole
+if fgconsole=="1" { Hyprland } 
+if (fgconsole==1) { Hyprland } 
+help if
+if fgconsole=1 { Hyprland } 
+help if
+ls
+if fgconsole==1 { Hyprland } 
+echo fgconsole==1
+echo $(fgconsole==1)
+echo fgconsole
+fgconsole
+fgconsole==1
+let a = fgconsole
+echo $a
+fgconsole fgconsole==1
+fgconsole | into int
+fgconsole
+ls
+fgconsole | into int
+let a = fgconsole | into int
+echo $a
+if $a==2 {echo 2}
+if ($a==2) {echo 2}
+let b = $a==2
+help
+help if
+if $a < 3 {'yes'}
+if $a = 3 {'yes'}
+if $a == 3 {'yes'}
+echo $a
+if $a == 2 {'yes'}
+let a = fgconsole
+killall firefox
+let result = $(your-command | str to-int)<\n>if $((echo $result | str to-int | echo $true) != $false) { echo $result }<\n>
+let result = $(fgconsole | str to-int)<\n>if $((echo $result | str to-int | echo $true) != $false) { echo $result }<\n>
+let res = fgconsole | into int
+echo $res
+if (fgconsole | into int == 1) { Hyprland } 
+if ((fgconsole | into int) == 1) { Hyprland } 
+fgconsole | describe
+l
+fgconsole | describe
+fgconsole 
+fgconsole | describe
+fgconsole | into int
+fgconsole == 3
+if (fgconsole == 3)
+if fgconsole == 3
+if (fgconsole == 3) echo {<\n>'yes'}
+help if
+if (fgconsole == 3) {<\n>'yes'}
+if ((fgconsole | into int) == 3) {<\n>'yes'}
+nvim .config/nushell/login.nu
+if ((fgconsole | into int) == 1) { Hyprland } 
+fgconsole 
+ls
+nvim .config/nushell/login.nu
+if ((fgconsole | into int)==1) { Hyprland }<\n>
+if ((fgconsole | into int) == 1) { Hyprland }<\n>
+nvim .config/nushell/login.nu
+fish
+echo $nu.env-path
+starship init --help
+starship init nu | save -f .config/nushell/starship.nu
+nvim .config/nushell/env.nu
+nvim .config/nushell/custom.nu
+nushell -v
+nu -v
+starship
+starship explain
+starship print-config
+ls
+starship preset jetpack -o ~/.config/starship.toml
+ll
+ls
+cd Codes/
+ls
+cd learn_lifetime/
+ls
+cd ..
+cd
+cd .config/
+ls
+ll
+ls
+cd Codes/
+cd minerhub/
+cd Codes/minerhub/
+git status
+ls
+cd Codes/minerhub/
+git status
+cd Codes/minerhub/
+cd
+cd .cache/
+ls
+cd starship/
+ls
+bat session_KlQJpEJtSEMz4lK2.log
+bat session_rDX9pWMkKUV77GfZ.log
+rm *
+cd .cache/starship/
+ls
+cd .cache/starship/
+ls
+cd
+cd Codes/minerhub/
+ls
+cd
+cd .cache/starship/
+ls
+bash
+cd Codes/minerhub/
+ls
+eval "$(starship init zsh)"
+zsh
+cd Codes/minerhub/
+git fetch
+git fetch --all
+git status
+cd ..
+cd minerhub/
+ll
+cd Codes/minerhub/
+l
+ls
+sudo su
+sudo pacman -Syyu
+nvim starship.toml
+l
+ls
+cd Codes/minerhub/
+zsh
+cd Codes/minerhub/
+ls
+ll
+j
+l
+ls
+ll
+cd Codes/minerhub/
+l
+ll
+cd Codes/minerhub/
+
+
+cd
+cd Codes/minerhub/
+cd .config/
+ls
+cd yazi
+ls
+ll
+ls
+cd plugins/
+ls
+cd
+cdl
+cd Codes/
+ll
+cd pay/
+ls
+cd Codes/
+cd ..
+cd Documents/
+cd Codes/
+autin
+paru -S autin
+cd Codes/minerhub/
+ls
+git status
+cd ..
+cd miner-web/
+ls
+git status
+git add .
+yazi
+cd ..
+ls
+cd orst/
+ls
+git status
+git fetch --all
+ll
+ls
+gstat
+env STARSHIP_LOG=trace starship git_status
+starship --help
+env STARSHIP_LOG=trace starship git
+env STARSHIP_LOG=trace starship module git_status
+cd Codes/minerhub/
+env STARSHIP_LOG=trace starship module git_status
+GIT_OPTIONAL_LOCKS="0" "/usr/bin/git" "-C" "/home/vainjoker/Codes/minerhub" "--git-dir" "/home/vainjoker/Codes/minerhub/.git" "-c" "core.fsmonitor=" "--work-tree" "/home/vainjoker/Codes/minerhub" "status" "--porcelain=2" "--branch"
+nvim starship.toml
+cd Codes/minerhub/
+ll
+nvim starship.toml
+cd Codes/minerhub/
+git status
+ls
+cd Codes/minerhub/
+git status
+ls
+cd ..
+cp -r miner-web/ miner1
+rm -rf miner1/
+ll
+ls
+nvim .config/nushell/config.nu
+nu --help
+nushell --help
+nu help
+help
+help completione
+ll
+ls
+bash
+cd .config/nushell/
+ls
+nvim config.nu
+nvim custom.nu
+ll
+let fish_completer = {|spans|<\n>    fish --command $'complete "--do-complete=($spans | str join " ")"'<\n>    | $"value(char tab)description(char newline)" + $in<\n>    | from tsv --flexible --no-infer<\n>}
+ls
+cd .config/nushell/
+nvim custom.nu
+nvim .config/nushell/custom.nu
+ls
+nvim .config/nushell/env.nu
+nvim .config/nushell/config.nu
+ls
+nvim .config/nushell/config.nu
+nvim .config/nushell/custom.nu
+ls
+nvim .config/nushell/custom.nu
+nvim .config/nushell/config.nu
+carapace _carapace nushell | save --force ~/.config/nushell/carapace.nu
+cd .config/nushell/
+ls
+nvim carapace.nu
+paru -Syyu
+paru -S autin
+paru -S zoxide
+z nushell
+z
+zoxide init nushell | save -f ~/.config/nushell/zoxide.nu
+ls
+nvim custom.nu
+fish
+nvim .config/nushell/zoxide.nu
+ls
+nvim .config/nushell/zoxide.nu
+nushell -v
+nushell --v
+nu -v
+nvim .config/nushell/zoxide.nu
+ls
+nvim .config/nushell/custom.nu
+z
+ls
+nvim .config/nushell/carapace.nu
+z
+bat -v
+bat --help
+cd .config/nushell/
+nvim zoxide.nu
+$env.PATH = ($env.PATH | split row (char esep) | prepend "/home/vainjoker/.config/carapace/bin")<\n><\n>def --env get-env [name] { $env | get $name }<\n>def --env set-env [name, value] { load-env { $name: $value } }<\n>def --env unset-env [name] { hide-env $name }<\n><\n>let carapace_completer = {|spans|<\n>  # if the current command is an alias, get it's expansion<\n>  let expanded_alias = (scope aliases | where name == $spans.0 | get -i 0 | get -i expansion)<\n><\n>  # overwrite<\n>  let spans = (if $expanded_alias != null  {<\n>    # put the first word of the expanded alias first in the span<\n>    $spans | skip 1 | prepend ($expanded_alias | split row " " | take 1)<\n>  } else {<\n>    $spans<\n>  })<\n><\n>  carapace $spans.0 nushell ...$spans<\n>  | from json<\n>}<\n><\n>mut current = (($env | default {} config).config | default {} completions)<\n>$current.completions = ($current.completions | default {} external)<\n>$current.completions.external = ($current.completions.external<\n>| default true enable<\n>| default $carapace_completer completer)<\n><\n>$env.config = $current<\n>    <\n>
+bat Codes/
+bat
+ll
+ls
+nvim carapace.nu
+# Code generated by zoxide. DO NOT EDIT.<\n><\n># =============================================================================<\n>#<\n># Hook configuration for zoxide.<\n>#<\n><\n># Initialize hook to add new entries to the database.<\n>if (not ($env | default false __zoxide_hooked | get __zoxide_hooked)) {<\n>  $env.__zoxide_hooked = true<\n>  $env.config = ($env | default {} config).config<\n>  $env.config = ($env.config | default {} hooks)<\n>  $env.config = ($env.config | update hooks ($env.config.hooks | default {} env_change))<\n>  $env.config = ($env.config | update hooks.env_change ($env.config.hooks.env_change | default [] PWD))<\n>  $env.config = ($env.config | update hooks.env_change.PWD ($env.config.hooks.env_change.PWD | append {|_, dir|<\n>    zoxide add -- $dir<\n>  }))<\n>}<\n><\n># =============================================================================<\n>#<\n># When using zoxide with --no-cmd, alias these internal functions as desired.<\n>#<\n><\n># Jump to a directory using only keywords.<\n>def --env __zoxide_z [...rest:string] {<\n>  let arg0 = ($rest | append '~').0<\n>  let path = if (($rest | length) <= 1) and ($arg0 == '-' or ($arg0 | path expand | path type) == dir) {<\n>    $arg0<\n>  } else {<\n>    (zoxide query --exclude $env.PWD -- ...$rest | str trim -r -c "\n")<\n>  }<\n>  cd $path<\n>}<\n><\n># Jump to a directory using interactive search.<\n>def --env __zoxide_zi [...rest:string] {<\n>  cd $'(zoxide query --interactive -- ...$rest | str trim -r -c "\n")'<\n>}<\n><\n># =============================================================================<\n>#<\n># Commands for zoxide. Disable these using --no-cmd.<\n>#<\n><\n>alias z = __zoxide_z<\n>alias zi = __zoxide_zi<\n><\n># =============================================================================<\n>#<\n># Add this to your env file (find it by running `$nu.env-path` in Nushell):<\n>#<\n>#   zoxide init nushell | save -f ~/.zoxide.nu<\n>#<\n># Now, add this to the end of your config file (find it by running<\n># `$nu.config-path` in Nushell):<\n>#<\n>#   source ~/.zoxide.nu<\n>#<\n># Note: zoxide only supports Nushell v0.89.0+.<\n>
+z
+z nushell
+z .config/nushell/
+cd
+z nushell
+ls
+nvim zoxide.nu
+ls
+z
+z nushell
+sudo pacman -Syu
+paru -S atuin
+atuin
+atuin init nushell
+atuin init nu
+atuin init nu | save -f ~/.config/nushell/atuin.nu
+nvim .config/nushell/custom.nu 
+paru -S hh
+gh auth 
+gh auth status 
+paru -Sq    
+time
+paru -Syyu
+cd .config/
+nvim starship.toml 
+cd .config/
+ls
+paru -Syyu
+sudo pacman -Syu
+paru -Syyu
+ls
+ll
+ls
+reboot
+ll
+cd .config/
+ls
+ll
+cd nushell/
+ls
+cd ..
+history
+z nushell
+z nvim
+cd .config/nvim
+cd 
+cd .config/nvim/
+cd
+z nvim
+cd .config/nvim/
+ls
+cd 
+cd Codes/
+ls
+cd minerhub/
+ls
+git status
+git add .
+git revise
+cargo amke
+cargo make
+cargo 
+dorothy theme
+dorothy
+bash -ic "$(curl -fsSL https://dorothy.bevry.me/install)"
+paru -Syyu
+bash -i "$(curl -fsSL https://dorothy.bevry.me/install)"
+ls
+bash
+cd
+cd .local/share/
+ls
+cd dorothy/
+ls
+bat
+bat init.nu 
+cp init.nu ~/.config/nushell/dorothy.nu
+z nushell
+ls
+vim config.nu
+vim custom.nu
+ls
+z doro
+z dorothy
+cd .local/share/dorothy/
+ls
+ls sources/
+echo $env.DOROTHY
+echo $env
+echo $env | grep
+echo $env | grep dorothy
+nvim dorothy.nu
+ls
+dorothy 
+dorothy theme
+dorothy 
+cargo
+which cargo
+dorothy --help
+dorothy uninstall
+which dorothy
+dorothy setup-util-rust
+dorothy run setup-util-rust
+dorothy run
+dorothy setup
+dorothy lint
+ll
+ls
+dorothy 
+dorothy setup-shell
+setup-bin 
+setup-nu
+setup-util-nu 
+setup-linux
+setup-go 
+which go
+paru -S go
+paru -S tabby
+yazi
+paru -Rscn docker
+paru -S podman
+paru -S apparmor cni-plugins poadman-compose
+paru -S podman-compose
+podman
+docker
+which docker
+z nushell
+ls
+cd .config/nushell
+ls
+vim custom.nu
+paru -Rscn cni-plugins 
+paru -S aardvark-dns
+podman info
+podman info | grep -i overlay
+docker
+podman compose
+ls
+cd Codes/
+ls
+cd pay
+ls
+podman compose run 
+paru -Rscn docker-compose 
+podman compose run 
+podman compose run ERR
+ls
+podman compose build
+podman compose 
+paru -S tabby podman-desktop
+paru -S podman-desktop
+podman compose up
+ls
+cd
+cd .config/
+ls
+sudo vim ~/.config/containers/registries.conf
+vim ~/.config/containers/registries.conf
+mkdir containers
+vim ~/.config/containers/registries.conf
+nvim ~/.config/containers/registries.conf
+podman run hello-world
+nvim ~/.config/containers/registries.conf
+paru -S tabby podman-desktop
+podman info | grep -i overlay
+paru -S passt
+paru -Rscn podman
+cd .local/share/dorothy/
+cd .local
+paru -S podman
+podman ps
+podman run quay.io/podman/hello
+paru -Rscn podman
+paru -Rscn podman-desktop-bin 
+yazi
+sudo yazi
+paru -S podman-desktop-bin
+paru -Rscn docker
+paru -S podman
+podman run hello
+podman run quay.io/podman/hello
+paru -S passt
+podman run quay.io/podman/hello
+podman ps
+podman info | grep -i overlay
+podman run quay.io/podman/hello
+systemctl soft-reboot
+ls
+nvim .config/nushell/login.nu 
+systemctl soft-reboot
+podman run quay.io/podman/hello
+paru -S tun
+paru -S netavark
+cat .config/containers/podman/
+paru -S passt
+paru -S netavark
+paru -S fuse-overlayfs
+podman info | grep -i overlay
+sysctl kernel.unprivileged_userns_clone
+cat /etc/subgid 
+cat /etc/subuid
+podman run quay.io/podman/hello
+podman info
+podman pull docker.io/archlinux
+podman run quay.io/podman/hello
+podman ps
+podman ps -a
+docker
+podman top 
+bat /etc/subgid 
+cd .local
+ls
+cd share/
+ls
+cd containers/
+ls
+cd storage/
+ls
+cd
+podman run quay.io/podman/hello
+paru -Rscn passt 
+paru -S podman
+paru -S podman-compose
+podman run quay.io/podman/hello
+podman run --net=pasta:-4 quay.io/podman/hello
+fish
+paru -Syyu
+fish
+reboot
+paru -Syyu
+podman run --net=pasta:-4 quay.io/podman/hello
+cd Codes/
+ls
+cd minerhub/
+ls
+cd ..
+mv minerhub/ minerhub_1
+echo $path
+echo $nu.env-path
+$env.XDG_CONFIG_HOME
+echo $env
+$env.PATH = ($env.PATH | split row (char esep) | append '~/.local/share/bin')
+$env.PATH = ($env.PATH | split row (char esep) | append '~/.cargo/bin')
+cargo
+echo $env.PATH
+bun
+yazi
+$env.PATH = ($env.PATH | split row (char esep) | append '~/.bun/bin')
+bun
+npm
+rustup
+rustup update
+$env.RUSTUP_DIST_SERVER="https://mirrors.ustc.edu.cn/rust-static"
+$env.RUSTUP_DIST_SERVER = "https://mirrors.ustc.edu.cn/rust-static"
+$env.RUSTUP_DIST_SERVER = "https://https://rsproxy.cn"
+$env.RUSTUP_UPDATE_ROOT = "https://rsproxy.cn/rustup"
+rustup update
+$env.RUSTUP_DIST_SERVER = "https://rsproxy.cn"
+z nushell
+ls
+rustup update
+cd Codes/
+cd miner-server/
+cargo make
+ls
+podman compose up 
+vim ~/.config/containers/registries.conf 
+podman compose up 
+z min
+cd Codes/miner-server/
+ls
+vim docker-compose.yml
+podman compose up 
+podman compose up -d
+fish
+sqlx
+cargo
+echo $env.PATH
+z nushell
+ls
+vim env.nu
+nvim env.nu
+nvim custom.nu 
+$env.PATH = ($env.PATH | split row (char esep) | append '~/.cargo/bin')
+sqlx
+z nushell
+nvim custom.nu 
+cd Codes/miner-server/
+sqlx database create
+sqlx migrate run
+sqlx --help
+sqlx completions
+sqlx completions nu
+ls
+git status
+cargo make
+cargo check
+cargo run
+paru -Syyu
+cd Codes/miner-server/
+git pull
+cargo run
+docker
+podman compose up -d
+sqlx
+sqlx migreate reveert
+sqlx migreate revert
+sqlx migrerate revert
+sqlx migerate revert
+sqlx migrate revert
+sqlx database drop
+sqlx database create
+sqlx migrate run
+sqlx
+z miner-server
+z Codes/miner-server/
+ls
+cargo build
+cargo build -r
+yazi
+ls
+nvim build.rs 
+z .config/nvim/
+ls
+nvim lua/modules/lang/config.lua 
+z miner-server
+z Codes/miner-server/
+cargo check
+z Codes/miner-server/
+cargo test test_basic_send
+cargo check
+cargo test test_basic_send
+z Codes/miner-server/
+cargo test test_basic_send
+cargo test test_basic_receive
+cargo nexttest
+cargo nextest
+cargo nextest test_basic_receive --no-capture
+cargo nextest test_basic_receive -no-capture
+cargo nextest --help
+cargo nextest run test_basic_receive -no-capture
+cargo nextest run test_basic_send --no-capture
+cargo nextest run test_basic_receive --no-capture
+cargo run
+cargo nextest run test_basic_receive --no-capture
+cargo run
+cargo nextest run test_basic_receive --no-capture
+cargo nextest run test_basic_send --no-capture
+cargo nextest run test_basic_receive --no-capture
+cargo check
+cargo run
+nvim build.rs 
+cargo run
+z Codes/miner-server/
+cargo run
+z Codes/miner-server/
+cargo run
+killall miner-server
+btm
+z Codes/miner-server/
+cargo run
+z Codes/miner-server/
+cargo run
+z Codes/miner-server/
+cargo run
+nvim src/miner/bootstrap/mod.rs 
+cargo check
+cargo run
+cargo check
+cargo run
+z Codes/miner-server/
+cargo check
+nvim src/library/mqer.rs 
+cargo make
+git status
+git diff
+git add .
+git commit -m "&"
+git push origin dev
+paru -Syyu
+z Codes/miner-server/
+git pull 
+cargo make
+cargo run
+Hyprland
+cd Codes/miner-server/
+cargo check
+z Codes/miner-server/
+cargo check
+cargo run
+z Codes/miner-server/
+cargo check
+nvim src/miner/bootstrap/mod.rs 
+z Codes/miner-server/
+cargo check
+cargo fix
+cargo fix --allow-dirty --allow-staged
+nvim src/miner/entity/claims.rs 
+cargo fix
+cargo check
+z Codes/miner-server/
+cargo check
+cargo run
+cargo check
+cargo run
+git status
+git diff
+cargo make
+git status
+git diff
+git add .
+git commit -m "&"
+git push origin dev
+cargo run
+paru -Syyu
+z Codes/miner-server/
+git pull
+cargo make
+cargo build -r
+yazi
+nvim
+reboot
+paru -Syyu
+cd Codes/
+git clone git@github.com:VainJoker/desensitive.git
+cd desensitive/
+ls
+yazi
+ls
+eza
+nvim cliff.toml 
+yazi
+cd desensitive/
+cd Codes/
+ls
+cd Codes/revise/
+ls
+nvim desensitive/
+git status
+ls
+cd desensitive/
+ls
+cargo make
+ls
+git status
+git add .
+ls
+nvim .github/workflows/ci.yml 
+cargo make
+git add .
+git log
+git revise
+cd ..
+cd revise/
+ls
+nvim src/main.rs 
+nano
+which nano
+cd ..
+cd desensitive/
+ls
+git push origin main
+nvim Cargo.toml 
+cd Codes/miner-web/
+ls
+git status
+cd ..
+ls
+cd miner-server/
+ls
+git status
+git diff
+git pull origin dev
+ls
+git status
+cargo make
+podman compose up -d
+podman ps
+podman compose up -d
+podman compose down
+podman compose up -d
+cargo make
+cargo update
+cargo make
+paru -Syyu
+pnpm
+ll
+ls
+alias
+pacman -S eza
+sudo pacman -S eza
+eza --comp
+eza --help
+paru -S skim
+fzf
+paru -S skim
+sk
+zsh
+ll
+ls
+cd ..
+ls
+cd regulator/
+ls
+git clone git@github.com:VainJoker/rust-template.git
+cd rust-template/
+ll
+ls
+nvim Cargo.toml 
+ls
+cd Codes/
+cd revise/
+ls
+cargo make
+cargo build
+cargo generate
+cargo generate --help
+cargo generate --test
+cargo generate --test cargo make
+cargo generate --test 
+git status
+git add .
+git commit -m "Update"
+git push origin main
+cd ..
+cd Codes/
+regulator/
+cd ..
+rm -rf regulator
+cargo generate --git https://github.com/vainjoker/rust-template
+cd regulator/
+ls
+cargo make
+cd ..
+cd rust-template/
+ls
+nvim src/lib.rs 
+cd ..
+ls
+cd Codes/
+cd regulator/
+ls
+nvim src/lib.rs 
+cargo make
+nvim src/lib.rs 
+cargo make
+cd ..
+cd
+nvim rust-template/
+cd rust-template/
+git add .
+git commit -m "Update"
+git push origin main
+yazi
+ls
+cd 
+cd Codes/
+cargo generate --git https://github.com/vainjoker/rust-template
+cd regulator/
+cargo make
+git init
+cargo make
+ll
+ls
+la -al
+ls -al
+eza -al
+ls
+git remote add origin git@github.com:VainJoker/regulator.git
+git add .
+git commit -m "Generate from https://github.com/vainjoker/rust-template"
+git push origin main
+cargo make
+paru -S skim
+paru -Syyu
+ll
+ls
+cd Codes/
+ll
+ls
+cd desensitive/
+ls
+cargo run
+cargo build
+ls
+cd Codes/
+git clone https://github.com/dtolnay/proc-macro-workshop
+ls
+cd proc-macro-workshop/
+l
+ls
+nvim Cargo.toml 
+ls
+nvim main.rs 
+cd debug/
+ls
+nvim Cargo.toml 
+cargo build
+nvim Cargo.toml 
+cargo check
+nvim Cargo.toml 
+ls
+cd ..
+ls
+cargo install cargo-expand
+cargo expand
+ls
+cd builder/l
+cd builder/
+ls
+cargo expand
+cargo test
+cd Codes/proc-macro-workshop/
+ls
+cd builder/
+cargo test
+cargo add syn
+cargo check
+cargo test
+cargo expand
+cargo test
+cd .config/
+ls
+cd nvim/
+ls
+nvim lua/modules/init.lua 
+z Codes
+ls
+z proc-macro-workshop/
+ls
+cd builder/
+ls
+cargo expand -- test
+cargo expand --test
+cargo expand --tests
+cargo test --expand
+cargo test -- --expand
+cargo test
+paru -Syyu
+cd Codes/proc-macro-workshop/
+ls
+nvim
+paru -Syyu
+reboot
+cd Codes/minerhub
+cd Codes/
+yazi
+cd miner-server/
+ls
+git pull
+git status
+git diff
+git stash
+git pull
+ll
+podman compose up -d
+docker ps
+cargo check
+paru -Syyu
+cd Codes/
+ls
+l
+ls
+yazi
+ls
+podman compose down
+cd miner-server/
+podman compose down
+podman compose up -d
+ls
+ls migrations/
+sqlx migrate run
+sqlx migrate down
+sqlx migrate revert
+sqlx migrate run
+cargo check
+nvim src/models/bw_account.rs 
+git status
+git add .
+git commit -m "update"
+git push origin dev
+paru -Syyu
+cd Codes/miner-server/
+git pull
+cargo check
+cargo update
+cd .config/
+cd nvim
+ls
+nvim
+cd Codes/miner-server/
+ls
+nvim lua/modules/init.lua 
+rg diagnostic
+nvim lua/modules/init.lua 
+nvim build.rs 
+cd Codes/miner-server/
+cargo test
+cargo nextest run --no-capture
+git status
+git diff
+git add .
+git commit -m "add unit test"
+git push origin dev
+tokei
+git status
+git add .
+git commit -m "add policy struct"
+git push origin dev
+cd Codes/miner-server/
+cargo make
+cargo fix --allow-dirty --allow-staged
+paru -Syyu
+git pull
+git status
+git stash
+git pull 
+reboot
+paru -Syyu
+rustup update
+cd Codes/miner-server/
+git pull 
+cargo check
+git status
+cargo make
+podman compose up -d
+podman compose down
+rm -rf ~/.local/share/containers/
+sudo rm -rf ~/.local/share/containers/
+podman compose down
+podman compose up -d
+cd
+cd .local
+cd share/
+ls
+cd containers/
+ls
+cd storage/
+ls
+cd overlay/
+ls
+cd
+cd Codes/miner-server/
+podman compose up -d
+cd /etc/containers/
+ls
+vim storage.conf
+sudo vim storage.conf
+podman compose up -d
+sudo vim storage.conf
+reboot
+cd /etc/containers/
+cd
+cd Codes/miner-server/
+cd /etc/containers/
+podman compose up -d
+vim registries.conf
+cd /etc/containers/
+cd
+cd Codes/miner-server/
+sudo vim ~/.config/containers/registries.conf # local
+podman compose up -d
+cd
+cd Codes/miner-server/
+docker network rm miner-server_default<\n>
+podman network rm miner-server_default
+podman compose down
+podman network rm miner-server_default
+podman network rm miner-server_default -f
+podman compose up -d
+ls
+cd docker/
+ls
+cd emqx_data/
+ls
+cd ..
+ls
+ls -al
+mkdir emqx_data/configs
+podman compose up -d
+ls
+yazi
+mkdir emqx_data
+podman compose up -d
+podman compose down
+ls -al
+cd emqx_data/
+ls
+cd ..
+podman volume list
+ls
+chmod -R 777 emqx
+chmod -R 777 emqx_data/
+ls -al
+podman compose up -d
+ls
+chmod -R 777 dragonfly_data/
+ls
+ls -al
+podman compose up -d
+ls
+ls -al
+cd ..
+cargo make
+cargo build -r
+ls
+yazi
+ls
+nvim build.rs 
+paru -Syyu
+reboot
+paru -Syyu
+cd Codes/miner-server/
+git stash
+git pull
+cargo check
+cargo make
+git status
+nvim
+cargo update
+rustup update
+paru -Syyu
+cd Codes/miner-server/
+ls
+nvim src/models/bw_account.rs 
+git pull
+nvim src/models/bw_account.rs 
+reboot
+cd .config/nushell/
+config nu --default
+config nu --default | grep shell
+config nu --default 
+paru -Syyu
+nvim
+cd Codes/miner-server/
+ls
+git pull
+ls -al
+cargo make
+rustup update
+cargo clean
+cargo update
+cargo make
+podman compose up -d
+cd Codes/miner-server/
+cargo check
+nvim
+cargo fix --allow-dirty --allow-staged
+cd Codes/miner-server/
+cargo run
+cd Codes/miner-server/
+cargo run
+git status
+git add .
+git commit -m "add abi service"
+git push origin dev
+cargo nextest run --no-capture
+cargo check
+sqlx database drop
+sqlx database create
+sqlx database run
+sqlx migrate run
+beekeeper
+cd /opt/beekeeper/
+ls
+cd
+cd Codes/miner-server/
+nvim src/miner/abi/mod.rs 
+cargo check
+cargo fix --allow-dirty --allow-staged
+cargo run
+cargo fix --allow-dirty --allow-staged
+cargo nextest run --no-capture
+sqlx database drop
+sqlx database create
+sqlx migrate run
+cargo nextest run --no-capture
+nvim src/miner/entity/machine.rs 
+nvim src/models/machine.rs +235
+nvim src/miner/entity/machine.rs 
+cargo check
+cargo nextest run --no-capture
+cargo make
+nvim typos.toml 
+cargo make
+nvim src/pb/mod.rs 
+cargo make
+cargo fix --allow-dirty --allow-staged
+nvim src/library/redisor.rs +52
+cargo make
+git status
+git add .
+git commit -m "machine sign"
+git push origin dev
+paru -Syyu
+cd Codes/miner-server/
+git pull
+ls
+cd ..
+git clone https://github.com/vainjoker/mining-client
+ll
+cd Codes/miner-server/
+ls
+cd miner-server/
+cargo make
+paru -Syyu
+reboot
+paru -Syyu
+cargo update
+rustup update
+cd Codes/miner-server/
+cargo clean
+cargo clean-all
+cargo install cargo-clean
+cargo clean
+cargo clean all
+cargo clean-all
+cargo clean_all
+cargo clean-all
+git pull
+cargo make
+podman compose up -d
+reboot
+cd Codes/miner-server/
+cargo make
+sqlx database create
+sqlx database drop
+sqlx database create
+sqlx migreate run
+sqlx migrate run
+cargo make
+ls
+cd Codes/miner-server/
+cargo check
+cargo nextest run --no-capture
+pgcli
+pgsql
+sqlx database drop
+podman compose up -d postgres
+sqlx database drop
+sqlx database create
+cargo nextest run --no-capture
+cargo nextest run test_update_other_machines --no-capture 
+cargo nextest run --no-capture
+nvim src/models/machine.rs 
+cargo make
+nvim src/models/machine.rs +252
+touch .tokeiignore
+mv .tokeiignore .tokeignore
+vim .tokeignore
+tokei
+cargo check
+cargo make
+git status
+git add .
+git commit -m "chore: &"
+git push origin dev
+cargo check
+nvim src/main.rs 
+nvim src/miner/
+nvim build.rs 
+git status
+git pull
+cargo run
+cd Codes/miner-client
+cd Codes/
+ls
+cd miner-web/
+ls
+pnpm
+ll
+ls
+pg
+ll
+nvim
+paru -Syyu
+reboot
+paru -Syyu
+cd Codes/
+cd regulator/
+ls
+git status
+nvim CHANGELOG.md 
+yazi
+ls
+paru -Syyu
+nvim
+cd Codes/
+ls
+cd revise/
+git status
+git diff
+git stash
+git pull 
+git checkout reflect
+git pull
+ls
+nvim src/revise/
+cd Codes/
+cd revise/
+ls
+cd Codes/revise/
+cargo check
+cargo clean
+cargo check
+cargo run
+cd Codes/revise/
+cargo nextest run  test_format_with option --no-capture
+cargo nextest run  test_format_with_option --no-capture
+nvim src/main.rs 
+cargo check
+git status
+git add .
+git commit -m "chore: &"
+git push origin reflect
+git pull 
+reboot
+paru -Syyu
+yazi
+cd dotfiles/
+ls
+./update.sh
+ls
+vim update.sh
+cd ..
+ls
+cd dotfiles-versions/
+ls
+cd ..
+ls
+cd .cache
+ls
+cd ..
+cd dotfiles/
+vim update.sh
+cd
+cd Downloads/
+ls
+cd dotfiles-dev/
+ls
+vim install.sh]
+vim install.sh
+ls
+vim update.sh
+vim install.sh
+ls
+vim .install/yay.sh
+rg yay
+sed -i "s/yay/paru/g" `grep suffx -rl ./`
+bash
+sudo su
+123qwe
+reboot
+sudo su
+ls
+cd Downloads/
+ls
+cd dotfiles-dev/
+ls
+./update.sh
+ls
+bash
+ls
+paru rofi-wayland
+paru -S rofi-wayland
+nvim -v
+paru -Syyu
+nvim
+paru -Rscn pfetch tabby-bin 
+paru -Syyu
+cd .config/
+ls
+cd hypr/
+ls
+cd .config/hypr/
+ls
+hyprctl monitors all
+cd .config/hypr/
+ls
+Hyprland 
+cd .config/hypr/
+ls
+nvim conf/
+cd Codes/
+ls
+cd revise/ls
+cd revise/
+ls
+git pull origin reflect
+rustup update
+cargo clean
+cargo make
+nvim src/revise/prompts/commit_confirm.rs 
+cargo make
+git pull
+git stash
+cd ..
+cd miner-server/
+ls
+cargo make
+cargo clean 
+cargo make
+cd .config/hypr/
+ls
+cd .local/share/applications/
+ls
+cd /usr/local/share/
+ls
+yazi
+cd /usr/share/
+ls
+cd applications/
+ls
+nvim beekeeper.desktop 
+nvim podman-desktop.desktop 
+ls
+cd .config/hypr/
+ls
+nvim conf/environment.conf 
+xeyes 
+reboot
+env
+cd .config/hypr/
+ls
+env
+cd .config/nushell/
+ls
+nvim custom.nu 
+nvim config.nu 
+nvim env.nu 
+nvim custom.nu 
+$env.GDK_SCALE = 2
+podman-desktop 
+nvim login.nu 
+nvim config.nu 
+env
+env GDK_SCALE=2
+$env.GDK_SCALE=2
+$env.GDK_SCALE = 2
+chsh zsh
+chsh -s /bin/zsh
+ls
+chsh -s /bin/nu
+ls
+cd Codes/
+ls
+$env.GDK_SCALE = 2
+code
+beekeeper
+podman-desktop 
+cd .config/nushell/
+ls
+z nushell
+ls
+nvim custom.nu 
+env
+code
+nvim .bashrc
+nvim .bash_profile 
+beekeeper
+ll
+ls
+cd .config/hypr/
+ls
+rofi
+rofi -show drun
+paru -Rscn rofi-wayland 
+rofi
+paru -S rofi-wayland
+nvim conf/keybinding.conf 
+cd Codes/
+ls
+cd miner-server/
+ls
+cd Codes/miner-server/
+ls
+cd ..
+git clone https://github.com/vainjoker/mining-client
+git clone git@github.com:VainJoker/miner-client.git
+cd miner-client/
+cargo make
+nvim src/main.rs 
+git checkout dev
+git stash
+git checkout dev
+git stash
+git checkout dev
+rm CHANGELOG.md
+git checkout dev
+cargo make
+cd Codes/
+ls
+paru -Syyu
+cd Codes/
+ls
+cd revise/
+git pull 
+cargo make
+cargo run
+cd Codes/revise/
+cargo run
+ls
+cargo nextest run  test_gemini_call --no-capture
+cargo run
+echo #Editor
+echo $Editor
+echo $env.VISUAL
+$env.VISUAL
+$env.EDITOR
+export
+set
+ls
+cd .config/nushell/
+ls
+vim config.nu
+rg editor
+rg buffer
+rg vim
+rg nano
+which nano
+start
+start config.nu
+editor
+which editor
+export
+echo $env
+$env.EDITOR = 'nvim<\n><\n>'
+$env.EDITOR = 'nvim'
+cargo run
+echo $env
+which nvim
+$env.VISUAL = 'nvim'
+cargo run
+$env.VISUAL = 'vim'
+$env.EDITOR = 'vim'
+cargo run
+$env.EDITOR = 'neovim'
+cargo run
+$env.EDITOR = 'nvim'
+$env.VISUAL = 'nvim'
+cargo run
+nvim src/main.rs 
+git status
+git add .
+git commit -m "chore: &"
+git push origin reflect
+disk
+fdisk
+fdisk --help
+btm
+proton
+paru -S proton
+paru -Syyu
+paru -S proton
+paru -Syyu
+copilot
+ls
+paru -Syyu
+paru -Rscn xray 
+paru -Syyu
+sudo pacman -S archlinux-keyring-wkd-sync 
+sudo pacman -Syyu
+sudo pacman -Sy archlinux-keyring
+sudo pacman -Syyu
+git clone git@github.com:VainJoker/iwi.git
+mv iwi/ Codes/
+cd Codes/
+cd iwi/
+ls
+cargo check
+ls
+podman-compose build app
+ls
+vim docker-compose.yml
+paru -Syyu
+nvim 
+reboot
+nvim
+cd Codes/iwi/
+ls
+podman-compose build app
+ls
+vim Dockerfile
+nvim Dockerfile
+podman-compose build app
+podman ps
+podman ps -a
+ls
+nvim Dockerfile
+podman-compose build app
+nvim Dockerfile
+podman-compose build app
+nvim Dockerfile
+podman-compose build app
+ls
+nvim Dockerfile
+podman-compose build app
+nvim Dockerfile
+podman-compose build app
+nvim Dockerfile
+podman-compose build app
+nvim Dockerfile
+podman-compose build app
+nvim Dockerfile
+podman-compose build app
+ls
+ls bin
+mkdir bin
+podman-compose build app
+ls
+ls bin/
+nvim docker-compose.yml 
+podman ps
+podman ps -a
+podman-compose build app
+ls bin
+vim docker-compose.yml
+nvim docker-compose.yml
+ls
+nvim Dockerfile 
+mv Dockerfile Dockerfile_
+mv docker-compose.yml docker-compose.yml_
+vim Dockerfile
+nvim docker-compose.yml
+podman-compose build 
+nvim docker-compose.yml
+nvim Dockerfile 
+nvim docker-compose.yml
+podman-compose build 
+ls
+ls bin/
+podman-compose up
+ls
+ls output/
+yazi
+podman-compose build app
+podman-compose up app
+podman-compose down
+podman-compose up app
+ls bin/
+nvim docker-compose.yml 
+podman-compose down
+podman-compose build app
+nvim Dockerfile 
+podman-compose build app
+ls 
+ls bin/
+podman-compose up app
+ls 
+ls release/
+nvim Dockerfile 
+nvim docker-compose.yml 
+podman-compose build app
+podman-compose up app
+podman-compose down app
+podman-compose up app
+nvim Dockerfile 
+podman-compose down app
+podman-compose build app
+podman-compose up app
+rm output/
+rm -rf output/
+rm -rf release/
+ls
+rm -rf bin
+podman-compose build app
+podman-compose up app
+podman-compose down app
+nvim Dockerfile 
+podman-compose build app
+nvim Dockerfile 
+podman-compose build app
+nvim Dockerfile 
+podman-compose build app
+nvim Dockerfile 
+podman-compose build app
+nvim Dockerfile 
+podman-compose build app
+nvim Dockerfile 
+podman-compose build app
+nvim Dockerfile 
+podman-compose build app
+podman-compose up app
+podman-compose down app
+nvim docker-compose.yml 
+podman-compose build app
+podman-compose up app
+ls
+podman-compose down app
+podman-compose up app
+ls 
+podman-compose build app
+ls
+podman-compose up app
+ls
+nvim docker-compose.yml 
+podman-compose up app
+nvim docker-compose.yml 
+podman-compose up app
+podman-compose down app
+podman-compose up app
+podman ps
+podman ps -a
+podman pod
+podman pod ps
+podman pod rm pod_iwi
+podman-compose up app
+ls
+nvim docker-compose.yml 
+podman-compose up app
+nvim docker-compose.yml 
+podman-compose up app
+podman pod rm pod_iwi
+podman-compose up app
+podman pod rm pod_iwi
+podman-compose up app
+podman pod rm pod_iwi
+nvim docker-compose.yml 
+podman pod rm pod_iwi
+podman-compose up app
+podman pod rm pod_iwi
+nvim docker-compose.yml 
+ls -R
+bash ls -R
+bash
+ls
+podman pod rm pod_iwi
+podman-compose up app
+podman pod rm pod_iwi
+podman-compose build app
+podman pod rm pod_iwi
+nvim Dockerfile 
+podman-compose build app
+nvim Dockerfile 
+podman-compose build app
+nvim docker-compose.yml 
+podman-compose up app
+nvim docker-compose.yml 
+podman pod rm pod_iwi
+podman-compose up app
+podman pod rm pod_iwi
+nvim docker-compose.yml 
+podman-compose up app
+nvim docker-compose.yml 
+podman-compose build app
+nvim Dockerfile 
+podman-compose build app
+ls a
+bash
+nvim docker-compose.yml 
+podman-compose build app
+podman-compose up app
+nvim docker-compose.yml 
+nvim Dockerfile 
+nvim docker-compose.yml 
+podman-compose up app
+podman pod rm pod_iwi
+podman-compose build app
+podman-compose up app
+podman pod rm pod_iwi
+nvim Dockerfile 
+nvim docker-compose.yml 
+podman pod rm pod_iwi
+podman-compose build app
+podman-compose up app
+ls
+ls bin/
+ls bin/iwi
+nvim docker-compose.yml 
+podman pod rm pod_iwi
+podman-compose build app
+podman-compose up app
+ls bin/
+yazi
+ls bin/
+nvim docker-compose.yml 
+ls -al bin
+bash
+ls
+nvim docker-compose.yml 
+nvim Dockerfile 
+nvim docker-compose.yml 
+nvim Dockerfile 
+podman-compose build app
+ls
+ls bin/
+rm -rf bin/
+podman-compose up app
+podman pod rm pod_iwi
+podman-compose up app
+ls bin/
+ls
+nvim Dockerfile 
+nvim docker-compose.yml 
+podman pod rm pod_iwi
+podman-compose up app
+ls
+nvim .env
+ls
+nvim .env
+nvim docker-compose.yml 
+rm -rf bin/
+podman pod rm pod_iwi
+podman-compose up app
+ls bin/
+nvim .env 
+nvim .env
+nvim fixtures/config_example.toml 
+cp fixtures/config_example.toml fixtures/config.toml
+nvim fixtures/config.toml 
+cargo check
+nvim docker-compose.yml 
+ls
+nvim docker-compose.yml 
+yazi
+btm
+yazi
+nvim src/
+nvim src/main.rs 
+cargo run
+nvim src/main.rs 
+cargo run --help
+cargo run -- -h
+cargo run -- -run
+cd Codes/iwi/
+cargo run -- run
+ls
+nvim docker-compose.yml 
+podman compose down
+nvim .env 
+podman compose up
+podman-compose up
+podman-compose down
+podman-compose up -d
+sqlx database create
+nvim .env 
+sqlx database create
+podman-compose down
+podman compose 
+podman compose  up
+ls
+ls -al
+nvim .env
+podman compose  up
+podman compose down
+nvim docker-compose.yml 
+podman compose down
+nvim docker-compose.yml 
+podman compose down
+podman compose  up
+podman-compose down
+podman-compose up
+podman-compose down
+podman-compose up -d
+cargo run -- run
+sqlx database create
+sqlx migrate run
+cargo run -- run
+git status
+nvim .gitignore 
+git status
+cargo run -- run
+cargo run -- run -c ./fixtures/config.toml
+cargo run -- -c ./fixtures/config.toml run
+nvim src/main.rs 
+ls
+rm -rf scripts/
+git status
+git add .
+git revise
+git status
+git add .
+git log
+git commit -m "build: Add config for docker build"
+git push origin dev
+cd ..
+ls
+cargo new learn_bevy
+cd learn_bevy/
+cargo build
+ll
+rustup update
+paru -Syyu
+cd
+ls
+which rustup
+paru -S cosmic
+killall hyperland
+killall Hyprland 
+ls
+cosmic-store 
+cosmic-start
+killall Hyprland 
+ls
+nvim .bash_profile 
+nvim .bashrc 
+cd .config/nushell/
+ls
+nvim login.nu 
+killall Hyprland 
+paru -Rscn cosmic
+paru -Syyu
+cd .config/nushell/
+nvim login.nu 
+reboot
+paru -Syyu
+cd .config/
+ls
+yazi
+cd 
+cd dotfiles/
+ls
+./update.sh
+paru -Rscn yay
+cd
+cd Downloads/
+ls
+cd dotfiles-main/
+ls
+nvim install.sh 
+ls
+nvim install.sh 
+sed -i "s/yay/paru/g" `grep suffx -rl ./`
+paru -Syyu
+ls
+paru -S stow
+ls
+ls -al
+mkdir ~/.dotfiles
+cd .dotfiles/
+ls
+starship
+fish
+zsh
+bash
+ls
+ll
+ls -al
+stow
+yazi
+mkdir .config
+ls
+yazi
+stow nvim
+mkdir nvim
+yazi
+stow nvim
+yazi
+nvim
+stow
+ls
+mkdir starship
+kitty
+yazi
+paru -S virtutalbox virtualbox-host-modules-arch 
+paru -S virtualbox
+paru -S virtualbox-host-modules-arch 
+modprobe vboxdrv
+sudo modprobe vboxdrv
+reboot
+cd .config/hypr/
+ls
+poweroff
+paru -Syyu
+cd Codes/
+ls
+cd
+cd .dotfiles/
+ls
+git remote add origin git@github.com:VainJoker/dotfile.git
+git init
+git remote add origin git@github.com:VainJoker/dotfile.git
+git branch -M main
+git status
+cd 
+fastfetch
+paru -S fastfetch 
+fastfetch
+cd .config/
+ls
+yazi
+ls
+cd hypr/
+ls
+cd ..
+mv hypr/ hypr_
+killall Hyprland 
+Hyprland 
+paru -S hyprland
+paru -S hyprland-git
+paru -Rscn hyprlock
+paru -Rscn hyprpaper
+paru -S hyprland-git
+Hyprland 
+cd .cache/hyprland/
+ls
+ca hyprlandCrashReport7144.txt
+bat hyprlandCrashReport7144.txt
+cd
+cd .config/
+ls
+cd hypr_/
+cd ..
+mkdir hypr
+cd hypr
+ls hypr
+rm hypr
+ls
+ls hypr
+ls
+cd hypr/
+yazi
+Hyprland 
+cd hypr/
+ls
+yazi
+ls
+vim hyprland.conf
+yazi
+cd ..
+cd dotfiles/
+ls
+ls -l
+ls -al
+cd .settings/
+ls
+cd ..
+cd .dotfiles/
+ls
+ls -al
+ll
+ls
+git status
+mkdir scripts
+yazi
+nvim terminal.sh 
+yazi
+cd 
+cd .dotfiles/
+ls
+cd ml4w-hyprland-settings/
+ls
+nvim hyprctl.sh 
+nvim hyprctl.json 
+nvim hyprctl.sh 
+cp hyprctl.sh ~/.dotfiles/scripts/
+cp hyprctl.json ~/.dotfiles/scripts/
+nvim scripts/gtk.sh 
+yazi
+qcd 
+cd 
+cd wallpaper/
+ls
+cat default.jpg 
+ls
+killall Hyprland 
+ls
+cd hypr/
+ls
+nvim hyprctl.sh 
+cd .dotfiles/
+cd 
+cd .dotfiles/
+ls
+nvim scripts/active-monitor.py 
+cd rofi/
+ls
+nvim config.rasi 
+cd ..
+ls
+waybar
+ls
+rm waybar/
+rm -rf waybar/
+ls
+rm waybar
+ls
+yazi
+ls
+cd waybar/
+ls
+waybar
+waybar -c ~/.config/waybar/themes${arrThemes[0]}/$config_file -s ~/.config/waybar/themes${arrThemes[1]}/$style_file &
+cd waybar/
+ls
+./themeswitcher.sh
+ls
+cd waybar/
+ls
+./launch.sh
+ls
+cd themes/
+ls
+cd waybar/
+./launch.sh
+nvim launch.sh 
+ls
+cd ..
+ls
+cd 
+cd dotfiles/
+ls
+cd waypaper/
+ls
+nvim config.ini 
+waypaper
+yazi
+cd 
+cd .dotfiles/
+ls
+cd hypr/
+rg .config
+pwd
+rg \.config
+nvim hyprland.conf 
+ls
+cd hypr/
+ls
+l
+ls
+cd hypr/
+ls
+mkdir hypr
+yazi
+nvim hyprland.conf 
+ls
+cd ..
+ls
+rg \.config
+killall Hyprland 
+Hyprland 
+cd 
+cd .dotfiles/
+cd hypr/
+ls
+cd conf/
+ls
+nvim decoration.conf 
+waypaper
+waybar
+ls
+cd ..
+ls
+yazi
+cd waybar
+ls
+rg \.config
+nvim themeswitcher.sh 
+ls
+./launch.sh
+ls
+yazi
+ls
+yazi
+waypaper
+cd 
+cd .dotfiles/
+ls
+cd waypaper/
+rg \.config
+ls
+nvim config.ini 
+cd ..
+cd scripts/
+ls
+cd 
+cd .dotfiles/
+cd waypaper/
+ls
+cd ..
+cd scripts/
+ls
+cd ..
+cd .dotfiles/
+ls
+cd scripts/
+ls
+waypaper
+paru -Rscn hyprpaper
+paru -S hyprpaper
+paru -S hyprpaper-git
+waypaper
+cd 
+cd .config/hypr_/
+yazi
+nvim wallpaper.sh 
+cd ..
+cd hypr/
+ls
+nvim hyprland.conf 
+hyprlock
+paru -S hyprlock-git 
+paru -Rscn hyprlang
+paru -S hyprlang-git
+paru -S hyprlcok
+paru -S hyprlock
+paru -S hyprlock-git
+hyprlock
+eww
+killall Hyprland 
+cd
+cd .dotfiles/
+ls
+cd waypaper/
+nvim config.ini 
+cd ..
+cd scripts/
+ls
+nvim wallpaper.sh 
+cd ..
+cd hypr/
+ls
+nvim hyprpaper.conf 
+hyprpaper
+killall hyperpaper
+btm
+hyprpaper
+waypaper --restore
+@kitty-cmd{"ok": false, "error": "Remote control is disabled"}
+waypaper --restore
+killall hyperpaper
+killall waypaper
+killall hyprpaper
+btm
+killall Hyprland 
+Hyprland 
+cd 
+cd .dotfiles/
+ls
+cd hypr/
+ls
+nvim hyprpaper.conf 
+ls
+cd conf/
+ls
+hyprpaper
+killall hyprpaper
+hyprpaper
+ls
+cd ..
+cd .dotfiles/
+ls
+cd waypaper/
+ls
+nvim config.ini 
+cd ..
+cd scripts/
+ls
+hyprpaper
+cd ..
+cd .dotfiles/
+ls
+cd scripts/
+ls
+./wallpaper.sh init
+nvim autostart.conf 
+yazi
+cd 
+cd dotfiles-versions/
+fzf
+yazi
+hyprpaper
+ls
+./wallpaper.sh init
+killall hyprpaper
+killall Hyprland 
+cd ..
+ls
+cd .dotfiles/
+ls
+hyprpaper
+killall hyprpaper
+hyprpaper
+swww
+swww init
+swww daemon
+swww-daemon
+killall swww-daemon 
+killall Hyprland 
+Hyprland 
+cd 
+cd .dotfiles/
+ls
+cd hypr/
+ls
+yazi
+ls
+cd 
+cd .dotfiles/
+ls
+git status
