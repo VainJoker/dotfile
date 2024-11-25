@@ -1,0 +1,2 @@
+- hypr
+- environment.d/im.conf
